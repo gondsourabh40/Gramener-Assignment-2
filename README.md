@@ -1,4 +1,4 @@
-# Gramener-Assignment
+# Gramener-Assignment-2
 I have done this assignment of second question of classification of good or bad user for loan 
 
 Approach to solve this problem:
