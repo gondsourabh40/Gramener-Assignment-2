@@ -8,10 +8,10 @@ then I find outliers in the dataset and removed it after it i preprocessed all c
 and as for get accurate accuracy i used k-fold cross validation technique
 Accuracy of all 4 models:
 
-0)	RandomForestClassifier	0.781145
-1)	SVC	0.734007
-2)	GaussianNB	0.727273
-3)	KNeighborsClassifier	0.723906
+0)	RandomForestClassifier	0.78
+1)	SVC	0.73
+2)	GaussianNB	0.72
+3)	KNeighborsClassifier	0.72
 
 so the best model is RandomForestClassifier
 
